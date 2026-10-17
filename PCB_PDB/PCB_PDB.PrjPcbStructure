@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top_Level.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=Conneectors|SchDesignator=Conneectors|FileName=Connectors.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Top_Level.SchDoc|FileName=Input_Circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Top_Level.SchDoc|FileName=Relay_Driver.SchDoc|SheetNumber=4
